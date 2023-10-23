@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2WnDMJ3blzeBNSSYq+um0/Ywp0XXbyIoBNjSpEptRkIQngEVwmWBWaSKR1z9ZNOZhX6k0JmVRjZVOaV/Bsf4GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\9040\\Documents\\Projetos\\Teste_OrangeHRM\\Teste_Selenium\\Teste_Selenium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9040\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\9040\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\9040\\.nuget\\packages\\selenium.webdriver.chromedriver\\114.0.5735.9000\\selenium.webdriver.chromedriver.114.0.5735.9000.nupkg.sha512"
+  ],
+  "logs": []
+}
